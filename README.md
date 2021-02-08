@@ -10,6 +10,7 @@ This repo is an empty one but with all necessary documents:
 * conda.yml for installing packages
 * config.py: Exemple of config file to load yml & credentials
 * ... many small details that will make your life easier :)
+
 You can erase the description above for your own project
 
 Project : description of the project
